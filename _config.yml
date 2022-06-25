@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ruya Karagulle / Personal Website"
 title_separator          : "-"
-name                     : "Ruya Karagulle"
+name                     : &name "Ruya Karagulle"
 description              : &description "personal description"
 url                      : https://ruyakrgl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -62,7 +62,7 @@ author:
   googlescholar    : ""
   email            : "ruyakrgl@umich.edu"
   github           : "ruyakrgl"
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/ruyakaragulle"
   #orcid            : "http://orcid.org/yourorcidurl"
   twitter          : "ruyakaragulle"
 
