@@ -19,7 +19,7 @@ redirect_from:
   * _personal/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile_photo.png
+* Profile image (can set in _config.yml): images/profile_photo.jpeg
 
 ## Tips and hints
 
