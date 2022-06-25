@@ -23,4 +23,4 @@ Running and Yoga
 ======
 Sailing is a great sport but after all I live in Ann Arbor now, Lake Michigan is not that close, and we are famous for cold winter days (weeks I can say) :). Before I met sailing, I was running and doing yoga. Yoga is an excellent choice for releasing tension from the body. Running is kind of a meditation for me. After a period of injury, I am currently on the recovery process for running.
 
-<br/><img src='/images/running.png'>
+
