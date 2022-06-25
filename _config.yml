@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ruya Karagulle / Personal Website"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ruya Karagulle"
 description              : &description "personal description"
 url                      : https://ruyakrgl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,13 +24,7 @@ comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
+ staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
@@ -70,7 +64,6 @@ author:
   github           : "ruyakrgl"
   linkedin         :
   #orcid            : "http://orcid.org/yourorcidurl"
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   twitter          : "ruyakaragulle"
 
 
