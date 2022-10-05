@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mechanical Engineering (with a minor in Electrical and Electronics Engineering), Bogazici University, Istanbul/Turkey, 2020
 * Ph.D in Electircal and Computer Engineering, University of Michigan, Ann Arbor, MI/ USA , 2025 (expected)
+* B.S. in Mechanical Engineering (with a minor in Electrical and Electronics Engineering), Bogazici University, Istanbul/Turkey, 2020
 
 Research experience
 ======
@@ -34,12 +34,10 @@ Research experience
 Skills
 ======
 * Coding skills
-  * Python
-  * C, C++
+  * Python, C, C++
 * Modeling and Analysis
   * MATLAB/Simulink
-  * CATIA, SolidWorks
-  * Abaqus 
+  * CATIA, SolidWorks, Abaqus 
   * V-Rep, ADAM, Linkage
 
 Languages
