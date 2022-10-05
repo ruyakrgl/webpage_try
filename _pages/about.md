@@ -14,5 +14,5 @@ I am Ruya Karagulle, Ph.D. student in Control field at Electrical and Computer E
 
 ### News
 
-* September 2022 | I presented our work on [Classification of Driving Behaviors using STL Formulas]('https://ruyakrgl.github.io//files/stl_driving_classification.pdf') at FORMATS 2022, online.
+* September 2022 | I presented our work on [Classification of Driving Behaviors using STL Formulas](https://doi.org/10.1007/978-3-031-15839-1_9) at FORMATS 2022, online.
 * July 2022 | I attended Formal Methods in Control Design workshop organized by European Embedded Control Institute (EECI).
