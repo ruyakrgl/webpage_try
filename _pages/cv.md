@@ -14,12 +14,12 @@ td, th {
    border: none!important;
 }
 </style>
-| <font size='6'> **Education** </font> | | |
+| <font size='5'>**Education**</font> | | |
 | Ph.D in Electrical and Computer Engineering,| <span style="color:DarkOliveGreen"> University of Michigan, Ann Arbor-MI</span>, | <span style="color:DarkOrange"> *2025(expected)*</span> |
 | B.S. in Mechanical Engineering (with a minor in Electrical and Electronics Engineering),| <span style="color:DarkOliveGreen"> Bogazici University, Istanbul-Turkiye</span>, | <span style="color:DarkOrange"> *2020*</span> |
-| <font size='6'> **Research Experience** </font> | | |
-| Graduate Student Research Assistant
-<ul><li>Temporal Logic Inference</li><li>Path planning for multi-agent systems </li></ul>| Ozay Group, University of Michigan, Ann Arbor-MI| <span style="color:DarkOrange"> *August 2020-Present*</span> | 
+| <font size='5'>**Research Experience**</font> | | |
+| Graduate Student Research Assistant Ozay Group, University of Michigan, Ann Arbor-MI| <span style="color:DarkOrange"> *August 2020-Present*</span> | 
+<ul><li>Temporal Logic Inference</li><li>Path planning for multi-agent systems </li></ul>| | |
   
 
 * *May 2023-August 2023:* Summer Research Intern
