@@ -1,7 +1,7 @@
 ---
 title: "Classification of Driving Behaviors Using STL Formulas: A Comparative Study"
 collection: publications
-permalink: /publication/STL__driving_classification
+permalink: /publication/STL_driving_classification
 excerpt: 'This paper conducts a comparative study of classification of longitudinal driving behavior using Signal Temporal Logic (STL) formulas. '
 date: 2022-09-15
 venue: 'FORMATS'
