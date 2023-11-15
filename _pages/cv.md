@@ -18,15 +18,13 @@ td, th {
 | Ph.D in Electrical and Computer Engineering| <span style="color:DarkOliveGreen"> University of Michigan, Ann Arbor-MI</span> | <span style="color:DarkOrange"> *2025(expected)*</span> |
 | B.S. in Mechanical Engineering (with a minor in Electrical and Electronics Engineering)| <span style="color:DarkOliveGreen"> Bogazici University, Istanbul-Turkiye</span> | <span style="color:DarkOrange"> *2020*</span> |
 | <font size='5'><b>Research Experience</b></font> | | |
-| Graduate Student Research Assistant | <span style="color:DarkOliveGreen"> Ozay Group, University of Michigan, Ann Arbor-MI</span> | <span style="color:DarkOrange"> *August 2020-Present*</span> | 
-<ul><li>Temporal Logic Inference</li><li>Path planning for multi-agent systems </li></ul>| | |
-| Summer Research Intern | <span style="color:DarkOliveGreen"> Toyota Research Institute, Los Altos, CAI</span> | <span style="color:DarkOrange">*May 2023-August 2023* </span> | 
-Active preference learning for customization within safe operation for autonomous vehicles| | |  
+| Graduate Student Research Assistant < br /> * Temporal Logic Inference <br /> * Path planning for multi-agent systems | <span style="color:DarkOliveGreen"> University of Michigan, Ann Arbor-MI</span> | <span style="color:DarkOrange"> *August 2020-Present*</span> | 
+| Summer Research Intern <br /> * Active preference learning for customization within safe operation for autonomous vehicles | <span style="color:DarkOliveGreen"> Toyota Research Institute, Los Altos, CA</span> | <span style="color:DarkOrange">*May 2023-August 2023* </span> | 
+| Undergraduate Intern <br /> * Active preference learning for customization within safe operation for autonomous vehicles | <span style="color:DarkOliveGreen">Max-Planck Institute for Intelligent Systems, Stuttgart-Germany</span> | <span style="color:DarkOrange">*July 2019-September 2019*</span> | 
 
-* *July 2019-September 2019:* Undergraduate Intern
-  * Max-Planck Institute for Intelligent Systems, Stuttgart/Germany
-  * Worked on Self-assembly of Soft Robots
-  * Simulation, molecular dynamics, decision-making algorithms, experience on image processing and experiment design
+ 
+* Worked on Self-assembly of Soft Robots
+* Simulation, molecular dynamics, decision-making algorithms, experience on image processing and experiment design
 
 * *October 2018-August 2020:* Undergraduate Research Student
   * Intelligent Systems Laboratory, Bogazici University, Istanbul/Turkey
