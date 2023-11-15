@@ -14,9 +14,9 @@ td, th {
    border: none!important;
 }
 </style>
-| <font size='5'><b>Education</b></font> | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |
+| <font size='5'><b>Education</b></font> | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |
 | Ph.D in Electrical and Computer Engineering| <span style="color:DarkOliveGreen"> University of Michigan, Ann Arbor-MI</span> | <span style="color:DarkOrange"> *2025(expected)*</span> |
-| B.S. in Mechanical Engineering (with a minor in Electrical and Electronics Engineering)| <span style="color:DarkOliveGreen"> Bogazici University, Istanbul-Turkiye</span> | <span style="color:DarkOrange"> *2020*</span> |
+| B.S. in Mechanical Engineering (with a minor in Electrical and Electronics Engineering)| <span style="color:DarkOliveGreen"> Bogazici University, Istanbul-Turkiye</span> | <span style="color:DarkOrange"> *2015-2020*</span> |
 | <font size='5'><b>Research Experience</b></font> | | |
 | Graduate Student Research Assistant <br /> &nbsp; * Temporal Logic Inference <br /> &nbsp; * Path planning for multi-agent systems | <span style="color:DarkOliveGreen"> University of Michigan, Ann Arbor-MI</span> | <span style="color:DarkOrange"> *August 2020-Present*</span> | 
 | Summer Research Intern <br /> &nbsp; * Active preference learning for customization within safe operation for autonomous vehicles | <span style="color:DarkOliveGreen"> Toyota Research Institute, Los Altos, CA</span> | <span style="color:DarkOrange">*May 2023-August 2023* </span> | 
