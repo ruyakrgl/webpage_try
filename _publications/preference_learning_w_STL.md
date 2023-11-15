@@ -11,6 +11,6 @@ citation: 'Karagulle, R., Aréchiga, N., DeCastro, J., Ozay, N. (2023).A Prefere
 ---
 This work introduces a preference learning method that ensures adherence to traffic rules for autonomous vehicles.
 
-[You can download paper here]('https://ruyakrgl.github.io/files/preference_learning_w_STL.pdf')
+[You can download paper here]('https://ruyakrgl.github.io//files/preference_learning_w_STL.pdf')
 
 <!-- Recommended citation: Karagulle, R., Aréchiga, N., DeCastro, J., Ozay, N. (2023).A Preference Learning Approach to Develop Safe and Personalizable Autonomous Vehicles. (submitted to RA-L) -->
