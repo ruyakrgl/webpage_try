@@ -13,13 +13,16 @@ redirect_from:
 td, th {
    border: none!important;
 }
-th:first-of-type {
+table { 
+  border: none!important;
+}
+table th:nth-of-type(1) {
     width: 50%;
 }
-th:nth-of-type(2) {
+table th:nth-of-type(2) {
     width: 30%;
 }
-th:nth-of-type(3) {
+table th:nth-of-type(3) {
     width: 20%;
 }
 </style>
