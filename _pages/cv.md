@@ -14,7 +14,8 @@ td, th {
    border: none!important;
 }
 </style>
-| <font size='5'><b>Education</b></font> | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | |
+|<img width=500/>|<img width=300/>| <img width=200/|
+| <font size='5'><b>Education</b></font> | | | 
 | Ph.D in Electrical and Computer Engineering| <span style="color:DarkOliveGreen"> University of Michigan, Ann Arbor-MI</span> | <span style="color:DarkOrange"> *2025(expected)*</span> |
 | B.S. in Mechanical Engineering (with a minor in Electrical and Electronics Engineering)| <span style="color:DarkOliveGreen"> Bogazici University, Istanbul-Turkiye</span> | <span style="color:DarkOrange"> *2015-2020*</span> |
 | <font size='5'><b>Research Experience</b></font> | | |
