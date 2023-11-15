@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, University of Michigan, Ann Arbor, MI/ USA  <style> <i> 2025(expected)</i> {text-align: right}</style>
-* B.S. in Mechanical Engineering (with a minor in Electrical and Electronics Engineering), Bogazici University, Istanbul/Turkiye, *2020*
+* | Ph.D in Electrical and Computer Engineering | University of Michigan, Ann Arbor, MI/ USA | *2025(expected)* |
+* | B.S. in Mechanical Engineering (with a minor in Electrical and Electronics Engineering) |Bogazici University, Istanbul/Turkiye | *2020* |
 
 Research experience
 ======
-* Graduate Student Research Assistant  <style><i>August 2020-Present</i>{text-align: right}</style>
+* Graduate Student Research Assistant *August 2020-Present:*
   * Ozay Group, University of Michigan, Ann Arbor, MI/ USA
   * Temporal Logic Inference
   * Path planning for multi-agent systems   
