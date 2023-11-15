@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, University of Michigan, Ann Arbor, MI/ USA , *2025 (expected)*
+* Ph.D in Electrical and Computer Engineering, University of Michigan, Ann Arbor, MI/ USA  <div style="text-align: right"> <i> 2025 (expected)</i> </div>
 * B.S. in Mechanical Engineering (with a minor in Electrical and Electronics Engineering), Bogazici University, Istanbul/Turkiye, *2020*
 
 Research experience
@@ -38,12 +38,12 @@ Research experience
 Publications
 ======
 * Journals
-  * R. Karagulle, N. Arechiga, A. Best, J. DeCastro, and N. Ozay,“A Preference Learning Approach to Develop Safe and Personalizable Autonomous Vehicles,” 2023 (submitted to RA-L)
+  * R. Karagulle, N. Aréchiga, A. Best, J. DeCastro, and N. Ozay,“A Preference Learning Approach to Develop Safe and Personalizable Autonomous Vehicles,” 2023 (submitted to RA-L)
 * Conferences
-  * R. Karagulle, N. Ozay, N. Arechiga, J. DeCastro, and A. Best,“Incorporating Logic in Online Preference Learning for Safe Personalization of Autonomous Vehicles,” 2023 (submitted to HSCC)
-  * R. Karagulle, N. Arechiga, J. DeCastro, and N. Ozay, “Classification of Driving Behaviors Using STL Formulas: A Comparative Study,” in Formal Modeling and Analysis of Timed Systems, Cham: Springer International Publishing, 2022, pp. 153–162, ISBN: 978-3-031-15839-1
+  * R. Karagulle, N. Ozay, N. Aréchiga, J. DeCastro, and A. Best,“Incorporating Logic in Online Preference Learning for Safe Personalization of Autonomous Vehicles,” 2023 (submitted to HSCC)
+  * R. Karagulle, N. Aréchiga, J. DeCastro, and N. Ozay, “Classification of Driving Behaviors Using STL Formulas: A Comparative Study,” in Formal Modeling and Analysis of Timed Systems, Cham: Springer International Publishing, 2022, pp. 153–162, ISBN: 978-3-031-15839-1
 
-Presentations and Talks
+Presentations and Talks 
 ======
 * **HSCC 2023:** Safety Guaranteed Preference Learning. *Poster Presentation*, *May 2023*  
 * **FORMATS 2022:** Classification of Driving Behaviors Using STL Formulas:A Comparative Study *Talk*, *Sept 2022*
