@@ -14,7 +14,7 @@ td, th {
    border: none!important;
 }
 </style>
-| <font size='5'><b>Education</b></font> | | |
+| <font size='5'><b>Education</b></font> | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |
 | Ph.D in Electrical and Computer Engineering| <span style="color:DarkOliveGreen"> University of Michigan, Ann Arbor-MI</span> | <span style="color:DarkOrange"> *2025(expected)*</span> |
 | B.S. in Mechanical Engineering (with a minor in Electrical and Electronics Engineering)| <span style="color:DarkOliveGreen"> Bogazici University, Istanbul-Turkiye</span> | <span style="color:DarkOrange"> *2020*</span> |
 | <font size='5'><b>Research Experience</b></font> | | |
@@ -24,7 +24,7 @@ td, th {
 | Undergraduate Research Student <br /> &nbsp; * Robust rotating mechanism design for LiDARs <br /> &nbsp; * Control theory, simulation and experimentation | <span style="color:DarkOliveGreen">Bogazici University, Istanbul-Turkiye</span> | <span style="color:DarkOrange">*October 2018-August 2020*</span> | 
 | <font size='5'><b>Publications</b></font> | | |
 | <font size='3'><b>Journals</b></font> | | | 
-| : &nbsp; * R. Karagulle, N. Aréchiga, A. Best, J. DeCastro, and N. Ozay,“A Preference Learning Approach to Develop Safe and Personalizable Autonomous Vehicles,” 2023 (submitted to RA-L) : |||
+| &nbsp; * R. Karagulle, N. Aréchiga, A. Best, J. DeCastro, and N. Ozay,“A Preference Learning Approach to Develop Safe and Personalizable Autonomous Vehicles,” 2023 (submitted to RA-L) |||
 | <font size='3'><b>Conferences</b></font> | | | 
 | &nbsp; * R. Karagulle, N. Ozay, N. Aréchiga, J. DeCastro, and A. Best,“Incorporating Logic in Online Preference Learning for Safe Personalization of Autonomous Vehicles,” 2023 (submitted to HSCC) |||
 | &nbsp; * R. Karagulle, N. Aréchiga, J. DeCastro, and N. Ozay, “Classification of Driving Behaviors Using STL Formulas: A Comparative Study,” in Formal Modeling and Analysis of Timed Systems, Cham: Springer International Publishing, 2022, pp. 153–162, ISBN: 978-3-031-15839-1 |||
@@ -37,7 +37,7 @@ td, th {
 | <font size='5'><b>Academic Servce and Outreach</b></font> | | |
 |&nbsp; * **Reviewer:** L4DC *(2023)*, SAE WCX *(2023)*, CASE *(2021)* | | |
 |&nbsp; * Control For Girls Workshop on controls for elementary school girls | <span style="color:DarkOliveGreen"> Online, Turkiye</span>|  <span style="color:DarkOrange"> *Summer 2021*</span> |
-|&nbsp; * Career Girls - 2023 AI Machine Learning and Robotics Virtual Camp <br /> Participated as presenter and role-model expert | <span style="color:DarkOliveGreen"> Online</span> |  <span style="color:DarkOrange"> *Summer 2023*</span> | 
+|&nbsp; * Career Girls - 2023 AI Machine Learning and Robotics Virtual Camp <br /> &nbsp; &nbsp; * Participated as presenter and role-model expert | <span style="color:DarkOliveGreen"> Online</span> |  <span style="color:DarkOrange"> *Summer 2023*</span> | 
 | <font size='5'><b>Skills</b></font> | | |
 | <font size='3'><b>Coding</b></font> | | | 
 | &nbsp; * Python, C, C++ | | |
