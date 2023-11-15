@@ -14,17 +14,14 @@ td, th {
    border: none!important;
 }
 </style>
-| <font size='5'>**Education**</font> | | |
-| Ph.D in Electrical and Computer Engineering,| <span style="color:DarkOliveGreen"> University of Michigan, Ann Arbor-MI</span>, | <span style="color:DarkOrange"> *2025(expected)*</span> |
-| B.S. in Mechanical Engineering (with a minor in Electrical and Electronics Engineering),| <span style="color:DarkOliveGreen"> Bogazici University, Istanbul-Turkiye</span>, | <span style="color:DarkOrange"> *2020*</span> |
-| <font size='5'>**Research Experience**</font> | | |
-| Graduate Student Research Assistant Ozay Group, University of Michigan, Ann Arbor-MI| <span style="color:DarkOrange"> *August 2020-Present*</span> | 
+| <font size='5'><b>Education</b></font> | | |
+| Ph.D in Electrical and Computer Engineering| <span style="color:DarkOliveGreen"> University of Michigan, Ann Arbor-MI</span> | <span style="color:DarkOrange"> *2025(expected)*</span> |
+| B.S. in Mechanical Engineering (with a minor in Electrical and Electronics Engineering)| <span style="color:DarkOliveGreen"> Bogazici University, Istanbul-Turkiye</span> | <span style="color:DarkOrange"> *2020*</span> |
+| <font size='5'><b>Research Experience</b></font> | | |
+| Graduate Student Research Assistant | <span style="color:DarkOliveGreen"> Ozay Group, University of Michigan, Ann Arbor-MI</span> | <span style="color:DarkOrange"> *August 2020-Present*</span> | 
 <ul><li>Temporal Logic Inference</li><li>Path planning for multi-agent systems </li></ul>| | |
-  
-
-* *May 2023-August 2023:* Summer Research Intern
-  * Toyota Research Institute, Los Altos, California
-  * Active preference learning for customization within safe operation for autonomous vehicles
+| Summer Research Intern | <span style="color:DarkOliveGreen"> Toyota Research Institute, Los Altos, CAI</span> | <span style="color:DarkOrange">*May 2023-August 2023* </span> | 
+Active preference learning for customization within safe operation for autonomous vehicles| | |  
 
 * *July 2019-September 2019:* Undergraduate Intern
   * Max-Planck Institute for Intelligent Systems, Stuttgart/Germany
