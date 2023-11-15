@@ -11,8 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, <span style="color:DarkOliveGreen"> University of Michigan, Ann Arbor-MI</span>,  <span style="color:DarkOrange"> *2025(expected)*</span>
-* B.S. in Mechanical Engineering (with a minor in Electrical and Electronics Engineering), <span style="color:DarkOliveGreen"> Bogazici University, Istanbul-Turkiye</span>, <span style="color:DarkOrange"> *2020*</span>
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+| Ph.D in Electrical and Computer Engineering,| <span style="color:DarkOliveGreen"> University of Michigan, Ann Arbor-MI</span>, | <span style="color:DarkOrange"> *2025(expected)*</span> |
+| B.S. in Mechanical Engineering (with a minor in Electrical and Electronics Engineering),| <span style="color:DarkOliveGreen"> Bogazici University, Istanbul-Turkiye</span>, | <span style="color:DarkOrange"> *2020*</span> |
 
 Research experience
 ======
