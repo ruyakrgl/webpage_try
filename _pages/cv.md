@@ -14,13 +14,13 @@ td, th {
    border: none!important;
 }
 table th:first-of-type {
-    width: 50%;
+    width: 10%;
 }
 table th:nth-of-type(2) {
     width: 30%;
 }
 table th:nth-of-type(3) {
-    width: 20%;
+    width: 60%;
 }
 </style>
 
