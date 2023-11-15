@@ -16,7 +16,7 @@ Education
 
 Research experience
 ======
-* *August 2020-Present:* Graduate Student Research Assistant
+* Graduate Student Research Assistant  <style><i>August 2020-Present</i>{text-align: right}</style>
   * Ozay Group, University of Michigan, Ann Arbor, MI/ USA
   * Temporal Logic Inference
   * Path planning for multi-agent systems   
