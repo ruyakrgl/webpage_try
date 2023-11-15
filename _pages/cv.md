@@ -13,8 +13,17 @@ redirect_from:
 td, th {
    border: none!important;
 }
+table th:first-of-type {
+    width: 50%;
+}
+table th:nth-of-type(2) {
+    width: 30%;
+}
+table th:nth-of-type(3) {
+    width: 20%;
+}
 </style>
-|<img width=500/>|<img width=300/>| <img width=200/|
+
 | <font size='5'><b>Education</b></font> | | | 
 | Ph.D in Electrical and Computer Engineering| <span style="color:DarkOliveGreen"> University of Michigan, Ann Arbor-MI</span> | <span style="color:DarkOrange"> *2025(expected)*</span> |
 | B.S. in Mechanical Engineering (with a minor in Electrical and Electronics Engineering)| <span style="color:DarkOliveGreen"> Bogazici University, Istanbul-Turkiye</span> | <span style="color:DarkOrange"> *2015-2020*</span> |
