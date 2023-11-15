@@ -19,12 +19,12 @@ td, th {
 | B.S. in Mechanical Engineering (with a minor in Electrical and Electronics Engineering)| <span style="color:DarkOliveGreen"> Bogazici University, Istanbul-Turkiye</span> | <span style="color:DarkOrange"> *2020*</span> |
 | <font size='5'><b>Research Experience</b></font> | | |
 | Graduate Student Research Assistant <br /> &nbsp; * Temporal Logic Inference <br /> &nbsp; * Path planning for multi-agent systems | <span style="color:DarkOliveGreen"> University of Michigan, Ann Arbor-MI</span> | <span style="color:DarkOrange"> *August 2020-Present*</span> | 
-| Summer Research Intern <br /> * Active preference learning for customization within safe operation for autonomous vehicles | <span style="color:DarkOliveGreen"> Toyota Research Institute, Los Altos, CA</span> | <span style="color:DarkOrange">*May 2023-August 2023* </span> | 
-| Undergraduate Intern <br /> * Worked on Self-assembly of Soft Robots <br /> &nbsp; * Simulation, molecular dynamics, decision-making algorithms, experience on image processing and experiment design | <span style="color:DarkOliveGreen">Max-Planck Institute for Intelligent Systems, Stuttgart-Germany</span> | <span style="color:DarkOrange">*July 2019-September 2019*</span> | 
+| Summer Research Intern <br /> &nbsp; * Active preference learning for customization within safe operation for autonomous vehicles | <span style="color:DarkOliveGreen"> Toyota Research Institute, Los Altos, CA</span> | <span style="color:DarkOrange">*May 2023-August 2023* </span> | 
+| Undergraduate Intern <br /> &nbsp; * Worked on Self-assembly of Soft Robots <br /> &nbsp; * Simulation, molecular dynamics, decision-making algorithms, experience on image processing and experiment design | <span style="color:DarkOliveGreen">Max-Planck Institute for Intelligent Systems, Stuttgart-Germany</span> | <span style="color:DarkOrange">*July 2019-September 2019*</span> | 
 | Undergraduate Research Student <br /> &nbsp; * Robust rotating mechanism design for LiDARs <br /> &nbsp; * Control theory, simulation and experimentation | <span style="color:DarkOliveGreen">Bogazici University, Istanbul-Turkiye</span> | <span style="color:DarkOrange">*October 2018-August 2020*</span> | 
 | <font size='5'><b>Publications</b></font> | | |
 | <font size='3'><b>Journals</b></font> | | | 
-| &nbsp; * R. Karagulle, N. Aréchiga, A. Best, J. DeCastro, and N. Ozay,“A Preference Learning Approach to Develop Safe and Personalizable Autonomous Vehicles,” 2023 (submitted to RA-L) |||
+| : &nbsp; * R. Karagulle, N. Aréchiga, A. Best, J. DeCastro, and N. Ozay,“A Preference Learning Approach to Develop Safe and Personalizable Autonomous Vehicles,” 2023 (submitted to RA-L) : |||
 | <font size='3'><b>Conferences</b></font> | | | 
 | &nbsp; * R. Karagulle, N. Ozay, N. Aréchiga, J. DeCastro, and A. Best,“Incorporating Logic in Online Preference Learning for Safe Personalization of Autonomous Vehicles,” 2023 (submitted to HSCC) |||
 | &nbsp; * R. Karagulle, N. Aréchiga, J. DeCastro, and N. Ozay, “Classification of Driving Behaviors Using STL Formulas: A Comparative Study,” in Formal Modeling and Analysis of Timed Systems, Cham: Springer International Publishing, 2022, pp. 153–162, ISBN: 978-3-031-15839-1 |||
@@ -44,6 +44,6 @@ td, th {
 | <font size='3'><b>Modeling, Simulation, and Analysis</b></font> | | | 
 | &nbsp; * MATLAB/Simulink | | | 
 | &nbsp; * CARLA, ROS2 | | |
-|CATIA, SolidWorks, Abaqus, V-Rep, ADAM, Linkage | | |
+| &nbsp; * CATIA, SolidWorks, Abaqus, V-Rep, ADAM, Linkage | | |
 | <font size='3'><b>Languages</b></font> | | | 
 | &nbsp; * Turkish, English, French | | | 
