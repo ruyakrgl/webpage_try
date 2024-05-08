@@ -19,8 +19,10 @@ Recent works in control field benefit from temporal logic to specify system's be
 In this project, we aim to capture user preferences for driving task to generate personalized and safe behaviors. We use temporal logic formalism to specify the safety. To capture the user preferences, we utilize preference learning methods. Specifically, we ask pairwise questions that compare two behaviors.
 
 ## Relevant Publications
-- A Safe Preference Learning Approach for Personalization with Applications to Autonomous Vehicles ([paper](https://ieeexplore.ieee.org/abstract/document/10465615)/[code](https://github.com/ruyakrgl/SPL-WSTL.git))
-- Incorporating Logic in Online Preference Learning for Safe Personalization of Autonomous Vehicles([paper](https://dl.acm.org/doi/abs/10.1145/3641513.3650129)/ code will be available soon!)
+- A Safe Preference Learning Approach for Personalization with Applications to Autonomous Vehicles
+ ([paper](https://ieeexplore.ieee.org/abstract/document/10465615) / [code](https://github.com/ruyakrgl/SPL-WSTL.git))
+- Incorporating Logic in Online Preference Learning for Safe Personalization of Autonomous Vehicles
+  ([paper](https://dl.acm.org/doi/abs/10.1145/3641513.3650129) / code will be available soon!)
 
 
 # Classification Using Temporal Logic
