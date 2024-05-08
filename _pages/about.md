@@ -13,6 +13,7 @@ redirect_from:
 I am Ruya Karagulle, Ph.D. student in Control field at Electrical and Computer Engineering at University of Michigan under the advising of [Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/). My research is mainly focused on formal methods and machine learning, where I am trying to combine the advantages of machine learning with formal methods to infer better specifications for systems. 
 
 ### News
+
 | March 2024 | Our work on [Incorporating Logic in Online Preference Learning for Safe Personalization of Autonomous Vehicles](https://dl.acm.org/doi/abs/10.1145/3641513.3650129) is accepted to HSCC 2024 with a Repeatability Badge! See you in Hong Kong on May 2024!|
 | February 2024 | Our work on [A Preference Learning Approach to Develop Safe and Personalizable Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/10465615) is accepted to Robotics and Automation Letters (RA-L)! We will be presenting it at IROS 2024! See you there! |
 | September 2023 | We submitted our work on [A Preference Learning Approach to Develop Safe and Personalizable Autonomous Vehicles](https://doi.org/10.48550/arXiv.2311.02099) to Robotics and Automation Letters (RA-L). |
