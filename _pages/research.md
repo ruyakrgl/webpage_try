@@ -3,6 +3,8 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+redirect_from:
+  - /research
 ---
 
 My research focus is on incorporating temporal logic formalism with machine learning framework in order to capture and alter system behaviors from data.
