@@ -23,11 +23,12 @@ In this project, we aim to capture user preferences for driving task to generate
  ([paper](https://ieeexplore.ieee.org/abstract/document/10465615) / [code](https://github.com/ruyakrgl/SPL-WSTL.git))
 - Incorporating Logic in Online Preference Learning for Safe Personalization of Autonomous Vehicles
   ([paper](https://dl.acm.org/doi/abs/10.1145/3641513.3650129) / code will be available soon!)
-
+- 4C: Custom-and-Correct-by-Construction Controller Synthesis using Multi-modal Human Feedback
+  ([paper](https://deepblue.lib.umich.edu/handle/2027.42/195259))
 
 # Classification Using Temporal Logic
 
-In this project, we utilize temporal logic formalism to classify driving behaviors. The goal is to infer an STL formula that can distinguish two classes of behaviors. By using this formula, we can synthesise new behaviors that belong to the desired class.
+In this project, we utilize temporal logic formalism to classify driving behaviors. The goal is to infer an STL formula that can distinguish two classes of behaviors. By using this formula, we can synthesize new behaviors that belong to the desired class.
 
 ## Relevant Publications
 - Classification of Driving Behaviors using STL Formulas: A Comparative Study ([paper](https://doi.org/10.1007/978-3-031-15839-1_9))
